@@ -1,0 +1,31 @@
+{
+  "name": "backend-interview-exp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Interview Experince",
+    "Google",
+    "Facebook",
+    "Meta",
+    "TCS",
+    "Wipro",
+    "Deloitte",
+    "Amazon",
+    "Microsoft"
+  ],
+  "author": "Sujal Kumar Timilsina",
+  "license": "ISC",
+  "description": "This is backend using node and express for an Interview Experience sharing and reading app using react native for an engineering students and other tech fellows.",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3"
+  }
+}
